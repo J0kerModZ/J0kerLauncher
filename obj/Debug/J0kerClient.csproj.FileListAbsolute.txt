@@ -1,0 +1,11 @@
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\bin\Debug\J0kerClient.exe.config
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\bin\Debug\J0kerClient.exe
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\bin\Debug\J0kerClient.pdb
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.csproj.AssemblyReference.cache
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.Properties.Resources.resources
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.csproj.GenerateResource.cache
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.csproj.CoreCompileInputs.cache
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.exe
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.pdb
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.Page2.resources
+C:\Users\J0ker ModZ\source\repos\J0kerClient\J0kerClient\obj\Debug\J0kerClient.Home.resources
